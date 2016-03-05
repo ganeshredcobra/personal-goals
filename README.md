@@ -3,18 +3,18 @@
 
 ##To Blog
 
-- [] Developing flask app and hosting heroku
-- [] CI Travis
+- [ ] Developing flask app and hosting heroku
+- [ ] CI Travis
 
 ##To Study
 
-- [] CPP
-- [] QT
+- [ ] CPP
+- [ ] QT
 
 ##Projects
 
-- [] Rest API website for Sim 900
-- [] Obdsam
+- [ ] Rest API website for Sim 900
+- [ ] Obdsam
 
 ##Talks which i must be prepared for:
 
