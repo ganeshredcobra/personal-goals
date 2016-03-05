@@ -8,7 +8,7 @@
 
 ##To Study
 
-- [ ] CPP
+- [ ] CPP![Progress](http://progressed.io/bar/28?title=progress)
 - [ ] QT
 
 ##Projects
