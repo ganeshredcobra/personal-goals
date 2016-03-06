@@ -15,7 +15,19 @@
 
 - [ ] Rest API website for Sim 900
 - [ ] Obdsam
+- [ ] Flask ECU Sim
 
 ##Talks which i must be prepared for:
 
+- [ ] Avr workshop
+- [ ] Arduino Workshop
+
+##To Buy
+
+- [ ] Buy a Royal Enfield
+
+##Trips to go
+
 ##Things I'll Do in the Future:
+
+- [ ] A Travel Blog
