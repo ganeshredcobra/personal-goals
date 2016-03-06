@@ -21,19 +21,32 @@
 ##Projects
 
 - [ ] Rest API website for Sim 900
+	- [ ] Without database version release
+	- [ ] With database version release
 - [ ] Obdsam
+	- [ ] Firmware
+	- [ ] Mongodb Integration
+	- [ ] Pagination
 - [ ] Flask ECU Sim
+	- [ ] Design
+	- [ ] Identify PID's
 
 ##Talks which i must be prepared for:
 
 - [ ] Avr workshop
 - [ ] Arduino Workshop
+- [ ] Linux System Administration
 
 ##To Buy
 
 - [ ] Buy a Royal Enfield
 
 ##Trips to go
+
+- [ ] Agasthyarkoodam
+- [ ] Leh
+- [ ] Kalikesam
+- [ ] Athirapalli
 
 ##Things I'll Do in the Future:
 
