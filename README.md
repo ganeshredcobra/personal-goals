@@ -1,6 +1,12 @@
 #Goals 2016
 ----
 
+##Daily
+
+- [ ] Code daily
+- [ ] Exercise
+	- * March
+
 ##To Blog
 
 - [ ] Developing flask app and hosting heroku
