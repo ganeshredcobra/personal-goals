@@ -7,6 +7,8 @@
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Exercise
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
+- [ ] Reading
+	- March ![Progress](http://progressed.io/bar/0?title=progress)
 
 ##To Blog
 
