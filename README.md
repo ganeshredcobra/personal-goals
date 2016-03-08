@@ -6,7 +6,7 @@
 - [ ] Code daily
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Exercise
-	- March ![Progress](http://progressed.io/bar/0?title=progress)
+	- March ![Progress](http://progressed.io/bar/-4.7?title=progress)
 - [ ] Reading
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 
