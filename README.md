@@ -4,11 +4,11 @@
 ##Daily
 
 - [ ] Code daily
-	- March ![Progress](http://progressed.io/bar/0?title=progress)
+	- March ![Progress](http://progressed.io/bar/30?title=progress)
 - [ ] Exercise
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Reading
-	- March ![Progress](http://progressed.io/bar/0?title=progress)
+	- March ![Progress](http://progressed.io/bar/2?title=progress)
 
 ##To Blog
 
@@ -32,7 +32,7 @@
 
 ##To Study
 
-- [ ] CPP![Progress](http://progressed.io/bar/28?title=progress)
+- [ ] CPP![Progress](http://progressed.io/bar/29?title=progress)
 - [ ] QT
 
 ##Projects
@@ -53,6 +53,8 @@
 - [ ] Avr workshop
 - [ ] Arduino Workshop
 - [ ] Linux System Administration
+- [ ] Linux From Scratch
+- [ ] Arch Linux
 
 ##To Buy
 
