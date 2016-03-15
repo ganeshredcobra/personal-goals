@@ -12,6 +12,21 @@
 
 ##To Blog
 
+- [x] January
+- [x] February
+- [ ] March
+- [ ] April
+- [ ] May
+- [ ] June
+- [ ] July
+- [ ] August
+- [ ] September
+- [ ] October
+- [ ] November
+- [ ] December
+
+#Topics
+---
 - [ ] Developing flask app and hosting heroku
 - [ ] CI Travis
 
