@@ -8,7 +8,8 @@
 - [ ] Exercise
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Reading
-	- March ![Progress](http://progressed.io/bar/2?title=progress)
+	1.Sagaratheeram
+	2.Motorcycle diaries
 
 ##To Blog
 
@@ -26,7 +27,7 @@
 - [ ] December
 
 #Topics
----
+
 - [ ] Developing flask app and hosting heroku
 - [ ] CI Travis
 
@@ -66,6 +67,10 @@
 - [ ] Leh
 - [ ] Kalikesam
 - [ ] Athirapalli
+
+##To Begin
+
+- [ ] Start Drawing
 
 ##Things I'll Do in the Future:
 
