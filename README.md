@@ -8,8 +8,8 @@
 - [ ] Exercise
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Reading
-	[ ] Sagaratheeram
-	[ ] Motorcycle diaries
+	- [ ] Sagaratheeram
+	- [ ] Motorcycle diaries
 
 ##To Blog
 
@@ -71,6 +71,12 @@
 ##To Begin
 
 - [ ] Start Drawing
+
+## HackerSpace Works
+
+- [ ] Maruti 800 Work
+- [ ] App for public transport
+- [ ] App for mapping public toilets and reviews
 
 ##Things I'll Do in the Future:
 
