@@ -8,8 +8,8 @@
 - [ ] Exercise
 	- March ![Progress](http://progressed.io/bar/0?title=progress)
 - [ ] Reading
-	1.Sagaratheeram
-	2.Motorcycle diaries
+	[ ] Sagaratheeram
+	[ ] Motorcycle diaries
 
 ##To Blog
 
