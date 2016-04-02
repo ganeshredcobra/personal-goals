@@ -59,7 +59,7 @@
 
 ##To Buy
 
-- [ ] Buy a Royal Enfield
+- [X] Buy a Royal Enfield
 
 ##Trips to go
 
