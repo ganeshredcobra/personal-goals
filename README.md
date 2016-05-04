@@ -52,6 +52,26 @@
 ##Talks which i must be prepared for:
 
 - [ ] Avr workshop
+	- [ ] Avr Intro
+	- [ ] DIO
+	- [ ] ADC
+	- [ ] PWM
+	- [ ] Timer/Counter
+	- [ ] Interrupt
+	- [ ] EEPROM
+	- [ ] LCD
+	- [ ] Motors
+		- [ ] DC Motor PWM
+		- [ ] H Bridge
+		- [ ] Stepper Motor
+		- [ ] Servo Motor
+	- [ ] UART
+	- [ ] SPI
+		- [ ] SPI EEPROM
+		- [ ] Micro to Micro SPI Commn
+	- [ ] I2C
+		- [ ] RTC
+		- [ ] EEPROM
 - [ ] Arduino Workshop
 - [ ] Linux System Administration
 - [ ] Linux From Scratch
