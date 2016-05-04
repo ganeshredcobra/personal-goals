@@ -59,6 +59,8 @@
 	- [ ] Timer/Counter
 	- [ ] Interrupt
 	- [ ] EEPROM
+	- [ ] WDT
+	- [ ] Sleep
 	- [ ] LCD
 	- [ ] Motors
 		- [ ] DC Motor PWM
