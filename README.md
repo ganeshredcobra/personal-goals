@@ -68,6 +68,7 @@
 		- [ ] Stepper Motor
 		- [ ] Servo Motor
 	- [ ] UART
+		- [ ] Software Serial
 	- [ ] SPI
 		- [ ] SPI EEPROM
 		- [ ] Micro to Micro SPI Commn
