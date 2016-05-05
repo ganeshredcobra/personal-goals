@@ -13,10 +13,10 @@
 
 ##To Blog
 
-- [x] January
-- [x] February
-- [ ] March
-- [ ] April
+- [X] January
+- [X] February
+- [ ] March :x:
+- [X] April
 - [ ] May
 - [ ] June
 - [ ] July
