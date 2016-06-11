@@ -67,6 +67,7 @@
 - [ ] Leh
 - [ ] Kalikesam
 - [ ] Athirapalli
+- [ ] Kottiyoor
 
 ##To Begin
 
