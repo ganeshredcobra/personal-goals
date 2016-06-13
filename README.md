@@ -35,6 +35,7 @@
 
 - [ ] CPP![Progress](http://progressed.io/bar/29?title=progress)
 - [ ] QT
+- [ ] Learn App Inventor
 
 ##Projects
 
