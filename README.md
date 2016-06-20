@@ -17,8 +17,8 @@
 - [X] February
 - [ ] March :x:
 - [X] April
-- [ ] May
-- [ ] June
+- [ ] May :x:
+- [X] June
 - [ ] July
 - [ ] August
 - [ ] September
