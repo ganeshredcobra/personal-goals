@@ -1,10 +1,14 @@
-#Places/Events/Treks To Visit
+#Places/Events/Treks To Do/Visit
 ----
 ##Himachal Pradesh
+- [ ] Leh
 ##Gujarat
 ##Kolkata
+- [ ] Durga Puja
 ##Goa
-##Bangalore
+##Karnataka
+- [ ] Hampi
+- [X] Kodachadri
 ##Tamilnadu
 ##Maharashtra
 ##Meghalaya
@@ -15,3 +19,8 @@
 ##Delhi
 ##Arunachal Pradesh
 ##Kerala
+- [ ] Agasthyarkoodam
+- [ ] Kalikesam
+- [ ] Athirapalli
+- [X] Kottiyoor
+
