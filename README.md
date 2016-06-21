@@ -64,11 +64,7 @@
 
 ##Trips to go
 
-- [ ] Agasthyarkoodam
-- [ ] Leh
-- [ ] Kalikesam
-- [ ] Athirapalli
-- [X] Kottiyoor
+[Places/Events/Treks To Do/Visit](https://github.com/ganeshredcobra/personal-goals/blob/master/Travel/ToVisit.md)
 
 ##To Begin
 
