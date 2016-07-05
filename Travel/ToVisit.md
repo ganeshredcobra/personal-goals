@@ -39,6 +39,9 @@
 - [ ] Rudarprayag
 - [ ] Devprayag
 - [ ] karnaprayag
+- [ ] Valley of Flowers
+- [ ] Kousani
+- [ ] Almora 
 
 ## Gujarat
 
@@ -71,10 +74,16 @@
 
 - [ ] Rameswaram
 - [X] Pondichery 
+- [ ] Thanjavoor
+- [ ] Dhanushkodi
 
 ##Maharashtra
 
 - [ ] Matheran View point
+
+##Madhyapradesh
+
+- [ ] Khajuraho temple
 
 ##Meghalaya
 
@@ -83,6 +92,13 @@
 ##Orissa
 
 - [ ] Puri
+- [ ] Konark surya temple
+
+##West Bengal
+
+ - [ ] Durga Pooja
+ - [ ] Darjeeling
+ - [ ] Boating at Hooghly River
 
 ##Jammu & kashmir
 
@@ -94,9 +110,10 @@
 - [ ] Pushkar
 - [ ] Jaipur
 - [ ] Jodhpur
-- [ ]  Samdunes
+- [ ] Samdunes
 
 ##Delhi
+- [ ] An Evening Walk through the crowded food streets
 
 ##Arunachal Pradesh
 
@@ -109,4 +126,5 @@
 - [ ] Athirapalli
 - [X] Munnar 
 - [X] Kottiyoor
+- [ ] Kanthalloor
 
