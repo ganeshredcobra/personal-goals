@@ -125,17 +125,47 @@
 
 - [ ] Agasthyarkoodam
 - [ ] Kalikesam
+- [ ] Arippu
+- [X] Mankayam
+- [ ] vazhvanthol
+- [X] peppara
+
 
 ###Ernakulam
 
 - [ ] Athirapalli
+- [ ] Thumboormuzhi dam and the butterfly park
+- [ ] Variyakuthu
+- [ ] Ezhattumugham
+
 
 ###Idukki
 
 - [X] Munnar 
 - [ ] Kanthalloor
+- [ ] Kolahalamedu
+- [ ] Thommankuthu
+
 
 ###Kannur
 
 - [X] Kottiyoor
+- [ ] Pythalmala
+
+###Thrissur
+
+- [ ] Marottichal waterfall
+- [ ] Chimmini
+- [ ] Thrissur Pooram
+
+###Kozhikode 
+
+- [ ] Janakikadu
+
+###Kasargod
+
+- [ ] Ranipuram
+
+
+
 
