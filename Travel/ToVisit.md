@@ -69,6 +69,10 @@
 
 - [ ] Hampi
 - [X] Kodachadri
+- [ ] Koorgu 
+- [ ] Golden Temple
+- [ ] Thala Kaveri
+      
 
 ##Tamilnadu
 
@@ -133,8 +137,8 @@
 
 ###Ernakulam
 
-- [ ] Athirapalli
-- [ ] Thumboormuzhi dam and the butterfly park
+
+- [ ] Thumboormuzhi dam 
 - [ ] Variyakuthu
 - [ ] Ezhattumugham
 
@@ -145,6 +149,7 @@
 - [ ] Kanthalloor
 - [ ] Kolahalamedu
 - [ ] Thommankuthu
+- [ ] Ila veezha poonjira
 
 
 ###Kannur
@@ -152,8 +157,18 @@
 - [X] Kottiyoor
 - [ ] Pythalmala
 
+###Wayanad
+
+- [ ] Kuruva Island
+- [ ] Edakkal caves
+- [ ] Soochippara Waterfalls
+- [ ] Chempara Peak
+- [ ] Pookkdou Lake
+- [ ] Thirunelli Temple
+
 ###Thrissur
 
+- [ ] Athirapalli
 - [ ] Marottichal waterfall
 - [ ] Chimmini
 - [ ] Thrissur Pooram
