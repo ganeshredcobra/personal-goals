@@ -121,10 +121,21 @@
 
 ##Kerala
 
+###Trivandrum
+
 - [ ] Agasthyarkoodam
 - [ ] Kalikesam
+
+###Ernakulam
+
 - [ ] Athirapalli
+
+###Idukki
+
 - [X] Munnar 
-- [X] Kottiyoor
 - [ ] Kanthalloor
+
+###Kannur
+
+- [X] Kottiyoor
 
