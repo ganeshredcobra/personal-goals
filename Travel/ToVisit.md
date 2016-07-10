@@ -149,8 +149,10 @@
 - [ ] Kanthalloor
 - [ ] Kolahalamedu
 - [ ] Thommankuthu
-- [ ] Ila veezha poonjira
 
+###Kottayam
+- [ ] Ila veezha poonjira
+- [ ] Illikal kallu
 
 ###Kannur
 
@@ -172,6 +174,7 @@
 - [ ] Marottichal waterfall
 - [ ] Chimmini
 - [ ] Thrissur Pooram
+- [ ] Kodungaloor Meena Bharani
 
 ###Kozhikode 
 
