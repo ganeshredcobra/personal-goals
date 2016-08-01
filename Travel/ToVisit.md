@@ -146,6 +146,7 @@
 ###Idukki
 
 - [X] Munnar 
+- [X] Anjuruli
 - [ ] Kanthalloor
 - [ ] Kolahalamedu
 - [ ] Thommankuthu
