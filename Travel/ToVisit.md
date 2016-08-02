@@ -131,6 +131,7 @@
 - [ ] Kalikesam
 - [ ] Arippu
 - [X] Mankayam
+- [X] Ponmudi
 - [ ] vazhvanthol
 - [X] peppara
 
@@ -141,7 +142,7 @@
 - [ ] Thumboormuzhi dam 
 - [ ] Variyakuthu
 - [ ] Ezhattumugham
-
+- [ ] Paniyeli Poru 
 
 ###Idukki
 
