@@ -29,6 +29,7 @@
 - [ ] kaza
 - [ ] Tabo
 - [ ] Kufri
+- [ ] Tirund Summer & Winter
 
 ##Uttarakhand
 
