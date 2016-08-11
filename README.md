@@ -19,7 +19,7 @@
 - [X] April
 - [ ] May :x:
 - [X] June
-- [ ] July
+- [X] July
 - [ ] August
 - [ ] September
 - [ ] October
