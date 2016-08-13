@@ -30,6 +30,7 @@
 - [ ] Tabo
 - [ ] Kufri
 - [ ] Tirund Summer & Winter
+- [ ] Churdhar Peak
 
 ##Uttarakhand
 
@@ -85,6 +86,7 @@
 ##Maharashtra
 
 - [ ] Matheran View point
+- [ ] pachmarhi
 
 ##Madhyapradesh
 
