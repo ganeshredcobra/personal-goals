@@ -154,6 +154,7 @@
 - [ ] Kanthalloor
 - [ ] Kolahalamedu
 - [ ] Thommankuthu
+- [ ] Urumbikkara
 
 ###Kottayam
 - [ ] Ila veezha poonjira
