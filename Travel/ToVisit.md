@@ -185,6 +185,7 @@
 ###Kozhikode 
 
 - [ ] Janakikadu
+- [ ] Vayalada
 
 ###Kasargod
 
