@@ -7,7 +7,7 @@
 - [ ] Dharamshala
 - [ ] Spiti Valley
 - [ ] Parvati Valley
-	- [ ] Tosh
+- [ ] Tosh
 - [ ] Numbra Valley
 - [ ] Manikaran
 - [ ] Kheer Ganga Hot spring
