@@ -155,6 +155,8 @@
 - [ ] Kolahalamedu
 - [ ] Thommankuthu
 - [ ] Urumbikkara
+- [ ] Swargamedu
+- [ ] Thangal Para
 
 ###Kottayam
 - [ ] Ila veezha poonjira
