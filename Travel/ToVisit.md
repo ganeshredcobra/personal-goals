@@ -88,6 +88,7 @@
 - [ ] Matheran View point
 - [ ] pachmarhi
 - [ ] Amboli Halls
+- [ ] Rajgad
 
 ##Madhyapradesh
 
