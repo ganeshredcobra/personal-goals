@@ -123,6 +123,11 @@
 
 ##Delhi
 - [ ] An Evening Walk through the crowded food streets
+- [X] Qutab Minar
+- [X] Akshardham temple
+- [X] India Gate
+- [X] JNU
+- [X] Connaught Place
 
 ##Arunachal Pradesh
 
@@ -140,9 +145,7 @@
 - [ ] vazhvanthol
 - [X] peppara
 
-
 ###Ernakulam
-
 
 - [ ] Thumboormuzhi dam 
 - [ ] Variyakuthu
@@ -190,6 +193,7 @@
 
 - [ ] Janakikadu
 - [ ] Vayalada
+- [ ] Aripara Waterfalls
 
 ###Kasargod
 
