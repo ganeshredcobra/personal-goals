@@ -31,6 +31,7 @@
 - [ ] Kufri
 - [ ] Tirund Summer & Winter
 - [ ] Churdhar Peak
+- [ ] Hampta Pass trek
 
 ##Uttarakhand
 
