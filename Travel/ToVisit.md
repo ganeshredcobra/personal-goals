@@ -167,6 +167,9 @@
 ###Kottayam
 - [ ] Ila veezha poonjira
 - [ ] Illikal kallu
+- [ ] Kattikayam Warefall
+- [ ] Aruvikachal Waterfalls
+- [ ] Aruvikkuzhi Waterfalls
 
 ###Kannur
 
