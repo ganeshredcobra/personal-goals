@@ -72,9 +72,12 @@
 
 - [ ] Hampi
 - [X] Kodachadri
+- [X] hogenakkal
 - [ ] Koorgu 
 - [ ] Golden Temple
 - [ ] Thala Kaveri
+- [ ] Madhugiri hills
+- [ ] Mullayangiri hills
       
 
 ##Tamilnadu
@@ -163,6 +166,7 @@
 - [ ] Urumbikkara
 - [ ] Swargamedu
 - [ ] Thangal Para
+- [ ] Anayadikuth
 
 ###Kottayam
 - [ ] Ila veezha poonjira
