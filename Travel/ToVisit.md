@@ -167,6 +167,8 @@
 - [ ] Swargamedu
 - [ ] Thangal Para
 - [ ] Anayadikuth
+- [ ] Uluppuni
+- [ ] Vellaram Chitta
 
 ###Kottayam
 - [ ] Ila veezha poonjira
