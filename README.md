@@ -21,7 +21,7 @@
 - [X] June
 - [X] July
 - [X] August
-- [ ] September
+- [ ] September :x:
 - [ ] October
 - [ ] November
 - [ ] December
