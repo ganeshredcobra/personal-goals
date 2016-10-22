@@ -72,7 +72,7 @@
 
 ## HackerSpace Works
 
-- [ ] Maruti 800 Work
+- [ ]~~ Maruti 800 Work~~
 - [ ] App for public transport
 - [ ] App for mapping public toilets and reviews
 - [ ] Avr Bootloaders 101
