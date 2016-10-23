@@ -213,6 +213,9 @@
 
 - [ ] Kerala Kundu Waterfalls
 
+##Palakkad
 
+- [ ]Varikkasseri Mana
+- [ ]Anangan Eco Tourism
 
 
