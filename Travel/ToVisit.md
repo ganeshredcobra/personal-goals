@@ -204,6 +204,7 @@
 - [ ] Janakikadu
 - [ ] Vayalada
 - [ ] Aripara Waterfalls
+- [ ] Kariyathumpara
 
 ###Kasargod
 
