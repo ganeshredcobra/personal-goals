@@ -22,7 +22,7 @@
 - [X] July
 - [X] August
 - [ ] September :x:
-- [ ] October
+- [X] October
 - [ ] November
 - [ ] December
 
