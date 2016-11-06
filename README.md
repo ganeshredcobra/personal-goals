@@ -36,6 +36,13 @@
 - [ ] CPP![Progress](http://progressed.io/bar/29?title=progress)
 - [ ] QT
 - [ ] Learn App Inventor
+- [ ] Think Stat 
+
+##MOOC's
+
+- [ ] Udacity Parallel Computing
+- [ ] Coursera Machine Learning Andrew Ng
+- [ ] Coursera Neural Network
 
 ##Projects
 
