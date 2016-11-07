@@ -37,7 +37,7 @@
 - [ ] QT
 - [ ] Learn App Inventor
 - [ ] Think Stat 
-
+- [ ] Little book of semaphore
 ##MOOC's
 
 - [ ] Udacity Parallel Computing
