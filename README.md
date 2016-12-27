@@ -23,7 +23,7 @@
 - [X] August
 - [ ] September :x:
 - [X] October
-- [ ] November
+- [ ] November :x:
 - [ ] December
 
 #Topics
