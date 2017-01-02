@@ -148,6 +148,7 @@
 - [X] Ponmudi
 - [ ] vazhvanthol
 - [X] peppara
+- [X] Kotoor Elephant camp
 
 ###Ernakulam
 
