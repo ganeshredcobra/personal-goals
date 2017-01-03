@@ -1,10 +1,10 @@
-#Goals 2016
+#Goals 2017
 ----
 
 ##Daily
 
 - [ ] Code daily
-- [ ] Exercise
+- [ ] Exercise daily
 - [ ] Reading
 	- [ ] Sagaratheeram
 	- [ ] Motorcycle diaries
@@ -26,13 +26,14 @@
 
 ##To Study
 
-- [ ] CPP
-- [ ] QT
+- [ ] CPP Advanced
+- [ ] QT Advanced
 - [ ] Learn App Inventor
 - [ ] Think Stat 
 - [ ] Little book of semaphore
 - [ ] OpenCV
 - [ ] OpenGL
+- [ ] Socket Programming
 
 ##MOOC's to attend
 
