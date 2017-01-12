@@ -78,7 +78,8 @@
 - [ ] Thala Kaveri
 - [ ] Madhugiri hills
 - [ ] Mullayangiri hills
-      
+- [ ] Badami
+- [ ] Murudeshwar      
 
 ##Tamilnadu
 
