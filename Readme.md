@@ -34,6 +34,11 @@
 - [ ] OpenCV
 - [ ] OpenGL
 - [ ] Socket Programming
+- [ ] LDD - RPI & BBB & i.mx7
+- [ ] Embedded Linux - Yocto, i2c, SPI, USB
+- [ ] Free Electron Slides
+- [ ] OpenGL
+- [ ] Protocols - i2c,SPI,USB,WIFI,BLE(SPPLE,GATT,A2DP)
 
 ##MOOC's to attend
 
