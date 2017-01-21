@@ -39,6 +39,7 @@
 - [ ] Free Electron Slides
 - [ ] OpenGL
 - [ ] Protocols - i2c,SPI,USB,WIFI,BLE(SPPLE,GATT,A2DP)
+- [ ] Mastering STM32
 
 ##MOOC's to attend
 
