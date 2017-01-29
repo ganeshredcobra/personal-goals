@@ -26,7 +26,7 @@
 
 ##To Study
 
-- [ ] CPP Advanced
+- [ ] CPP Advanced  (STL, Boost, GoogleTest)
 - [ ] QT Advanced
 - [ ] Learn App Inventor
 - [ ] Think Stat 
