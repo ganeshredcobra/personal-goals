@@ -157,6 +157,8 @@
 - [ ] Variyakuthu
 - [ ] Ezhattumugham
 - [ ] Paniyeli Poru 
+- [ ] Pooyamkutty
+- [ ] Iringol Kavu
 
 ###Idukki
 
