@@ -11,7 +11,7 @@
 	
 ##To Blog
 
-- [ ] January
+- [X] January
 - [ ] February
 - [ ] March 
 - [ ] April
