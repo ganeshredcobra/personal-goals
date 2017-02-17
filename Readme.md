@@ -40,6 +40,7 @@
 - [ ] OpenGL
 - [ ] Protocols - i2c,SPI,USB,WIFI,BLE(SPPLE,GATT,A2DP)
 - [ ] Mastering STM32
+- [ ] Intro to Algorithms Khan Academy
 
 ##MOOC's to attend
 
