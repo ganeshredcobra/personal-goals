@@ -1,6 +1,6 @@
-#Places/Events/Treks To Do/Visit
+Places/Events/Treks To Do/Visit
 ----
-##Himachal Pradesh
+### Himachal Pradesh
 
 - [ ] Leh
 - [ ] MacLeod Ganj
@@ -33,7 +33,7 @@
 - [ ] Churdhar Peak
 - [ ] Hampta Pass trek
 
-##Uttarakhand
+### Uttarakhand
 
 - [ ] Rishikesh
 	- [ ] River rafting
@@ -46,20 +46,20 @@
 - [ ] Kousani
 - [ ] Almora 
 
-## Gujarat
+### Gujarat
 
 - [ ] Kutch Utsav
 
-##Punjab
+### Punjab
 
 - [ ] Amritsar Golden temple
 - [ ] Gate closing ceremony Wagah border
 
-##Kolkata
+### Kolkata
 
 - [ ] Durga Puja
 
-##Goa
+### Goa
 
 - [X] Vagator
 - [X] Goa Carnival
@@ -68,7 +68,7 @@
 - [X] Arpora Saturday Night market 
 - [ ] Arambol 
 
-##Karnataka
+### Karnataka
 
 - [ ] Hampi
 - [X] Kodachadri
@@ -81,52 +81,52 @@
 - [ ] Badami
 - [ ] Murudeshwar      
 
-##Tamilnadu
+### Tamilnadu
 
 - [ ] Rameswaram
 - [X] Pondichery 
 - [ ] Thanjavoor
 - [ ] Dhanushkodi
 
-##Maharashtra
+### Maharashtra
 
 - [ ] Matheran View point
 - [ ] pachmarhi
 - [ ] Amboli Halls
 - [ ] Rajgad
 
-##Madhyapradesh
+### Madhyapradesh
 
 - [ ] Khajuraho temple
 
-##Meghalaya
+### Meghalaya
 
 - [ ] Cherapunji
 
-##Orissa
+### Orissa
 
 - [ ] Puri
 - [ ] Konark surya temple
 
-##West Bengal
+### West Bengal
 
  - [ ] Durga Pooja
  - [ ] Darjeeling
  - [ ] Boating at Hooghly River
 
-##Jammu & kashmir
+### Jammu & kashmir
 
 - [ ] Srinagar
 - [ ] Gulmarg
 
-##Rajasthan
+### Rajasthan
 
 - [ ] Pushkar
 - [ ] Jaipur
 - [ ] Jodhpur
 - [ ] Samdunes
 
-##Delhi
+### Delhi
 - [ ] An Evening Walk through the crowded food streets
 - [X] Qutab Minar
 - [X] Akshardham temple
@@ -134,13 +134,13 @@
 - [X] JNU
 - [X] Connaught Place
 
-##Arunachal Pradesh
+### Arunachal Pradesh
 
 - [ ] Tawang
 
-##Kerala
+### Kerala
 
-###Trivandrum
+### Trivandrum
 
 - [ ] Agasthyarkoodam
 - [ ] Kalikesam
@@ -151,7 +151,7 @@
 - [X] peppara
 - [X] Kotoor Elephant camp
 
-###Ernakulam
+### Ernakulam
 
 - [ ] Thumboormuzhi dam 
 - [ ] Variyakuthu
@@ -160,7 +160,7 @@
 - [ ] Pooyamkutty
 - [ ] Iringol Kavu
 
-###Idukki
+### Idukki
 
 - [X] Munnar 
 - [X] Anjuruli
@@ -174,19 +174,19 @@
 - [ ] Uluppuni
 - [ ] Vellaram Chitta
 
-###Kottayam
+### Kottayam
 - [ ] Ila veezha poonjira
 - [ ] Illikal kallu
 - [ ] Kattikayam Warefall
 - [ ] Aruvikachal Waterfalls
 - [ ] Aruvikkuzhi Waterfalls
 
-###Kannur
+### Kannur
 
 - [X] Kottiyoor
 - [ ] Pythalmala
 
-###Wayanad
+### Wayanad
 
 - [ ] Kuruva Island
 - [ ] Edakkal caves
@@ -195,7 +195,7 @@
 - [ ] Pookkdou Lake
 - [ ] Thirunelli Temple
 
-###Thrissur
+### Thrissur
 
 - [ ] Athirapalli
 - [ ] Marottichal waterfall
@@ -203,22 +203,22 @@
 - [ ] Thrissur Pooram
 - [ ] Kodungaloor Meena Bharani
 
-###Kozhikode 
+### Kozhikode 
 
 - [ ] Janakikadu
 - [ ] Vayalada
 - [ ] Aripara Waterfalls
 - [ ] Kariyathumpara
 
-###Kasargod
+### Kasargod
 
 - [ ] Ranipuram
 
-###Malappuram
+### Malappuram
 
 - [ ] Kerala Kundu Waterfalls
 
-###Palakkad
+### Palakkad
 
 - [ ] Varikkasseri Mana
 - [ ] Anangan Eco Tourism
