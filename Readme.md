@@ -1,15 +1,16 @@
-#Goals 2017
+Goals 2017
 ---------
 
-##Daily
-
+Daily
+---
 - [ ] Code daily
 - [ ] Exercise daily
 - [ ] Reading
 	- [ ] Sagaratheeram
 	- [ ] Motorcycle diaries
 	
-##To Blog
+To Blog
+----
 
 - [X] January
 - [X] February
@@ -24,7 +25,8 @@
 - [ ] November 
 - [ ] December
 
-##To Study
+To Study
+------
 
 - [ ] CPP Advanced  (STL, Boost, GoogleTest)
 - [ ] QT Advanced
@@ -42,13 +44,15 @@
 - [ ] Mastering STM32
 - [ ] Intro to Algorithms Khan Academy
 
-##MOOC's to attend
+MOOC's to attend
+----------
 
 - [ ] Udacity Parallel Computing
 - [ ] Coursera Machine Learning Andrew Ng
 - [ ] Coursera Neural Network
 
-##Projects
+Projects
+---------
 
 - [ ] Rest API website for Sim 900
 	- [ ] Without database version release
@@ -62,7 +66,8 @@
 	- [ ] Identify PID's
 - [ ] Building a Text Editor
 
-##Talks which i must be prepared for:
+Talks which i must be prepared for:
+--------------
 
 - [ ] Avr workshop
 - [ ] Arduino Workshop
@@ -70,10 +75,12 @@
 - [ ] Linux From Scratch
 - [ ] Arch Linux
 
-##Trips to go
+Trips to go
+-------
 
 [Places/Events/Treks To Do/Visit](https://github.com/ganeshredcobra/personal-goals/blob/master/Travel/ToVisit.md)
 
-##Things pending from 2016
+Things pending from 2016
+--------------
 
 - [ ] A Travel Blog
