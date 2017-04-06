@@ -1,5 +1,5 @@
 #Goals 2017
-----
+---------
 
 ##Daily
 
@@ -12,7 +12,7 @@
 ##To Blog
 
 - [X] January
-- [ ] February
+- [X] February
 - [ ] March 
 - [ ] April
 - [ ] May 
@@ -60,6 +60,7 @@
 - [ ] Flask ECU Sim
 	- [ ] Design
 	- [ ] Identify PID's
+- [ ] Building a Text Editor
 
 ##Talks which i must be prepared for:
 
