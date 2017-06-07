@@ -29,6 +29,7 @@ To Study
 ------
 
 - [ ] CPP Advanced  (STL, Boost, GoogleTest)
+- [ ] Java (http://programmingbydoing.com/)
 - [ ] QT Advanced
 - [ ] Learn App Inventor
 - [ ] Think Stat 
