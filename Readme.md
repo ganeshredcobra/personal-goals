@@ -31,10 +31,14 @@ To Study
 - [ ] CPP Advanced  (STL, Boost, GoogleTest)
 - [ ] Java (http://programmingbydoing.com/)
 - [ ] QT Advanced
+	- [ ] QML
 - [ ] Learn App Inventor
 - [ ] Think Stat 
 - [ ] Little book of semaphore
 - [ ] OpenCV
+	- [ ] ORB
+	- [ ] SIFT
+	- [ ] Deep Learning
 - [ ] OpenGL
 - [ ] Socket Programming
 - [ ] LDD - RPI & BBB & i.mx7
