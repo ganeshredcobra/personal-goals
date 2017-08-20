@@ -25,13 +25,23 @@ To Blog
 - [ ] November 
 - [ ] December
 
+Languages
+----
+
+- [ ] German
+	- [ ] August
+	- [ ] September
+	- [ ] October
+	- [ ] November
+	- [ ] December
+
 To Study
 ------
 
 - [ ] CPP Advanced  (STL, Boost, GoogleTest)
 - [ ] Java (http://programmingbydoing.com/)
 - [ ] QT Advanced
-	- [ ] QML
+	- [ ] QML book
 - [ ] Learn App Inventor
 - [ ] Think Stat 
 - [ ] Little book of semaphore
