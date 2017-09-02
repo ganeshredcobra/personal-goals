@@ -19,7 +19,7 @@ To Blog
 - [ ] May 
 - [ ] June
 - [ ] July
-- [ ] August
+- [X] August
 - [ ] September 
 - [ ] October
 - [ ] November 
@@ -29,7 +29,7 @@ Languages
 ----
 
 - [ ] German
-	- [ ] August
+	- [X] August  - 7%
 	- [ ] September
 	- [ ] October
 	- [ ] November
